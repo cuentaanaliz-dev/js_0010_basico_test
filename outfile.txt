@@ -1,0 +1,20 @@
+bun test v1.3.1 (89fa0f34)
+
+app.test.js:
+(pass) mayor de 3 numeros
+(pass) cero is null
+(pass) cero is null, valor distinto de nulo
+(pass) contar pares desde un numero a otro
+(pass) contar pares desde un numero a otro
+(pass) cadena de longitu mayor o igual a  n
+(pass) cadena de longitu mayor o igual a  n
+(pass) cadena vacia de longitud  mayor o igual a  n
+(pass) suma de tres numeros igual a n
+(pass) suma de tres numeros igual a n
+(pass) centimos  
+(pass) centimos  
+
+ 12 pass
+ 0 fail
+ 12 expect() calls
+Ran 12 tests across 1 file. [56.00ms]
